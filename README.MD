@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/MvMxQ1a.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -26,10 +26,10 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR21_eBfRtX4rPZDwQ_Z9U926LocKDvZ4d3y3ZIaHkgWdCeXcA34r4y-Lo4skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR21_eBfRtX4rPZDwQ_Z9U926LocKDvZ4d3y3ZIaHkgWdCeXcA34r4y-Lo4skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR21_eBfRtX4rPZDwQ_Z9U926LocKDvZ4d3y3ZIaHkgWdCeXcA34r4y-Lo4skills-assets/csharp-original.svg" alt="C#" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR21_eBfRtX4rPZDwQ_Z9U926LocKDvZ4d3y3ZIaHkgWdCeXcA34r4y-Lo4skills-assets/c-original.svg" alt="C" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR21_eBfRtX4rPZDwQ_Z9U926LocKDvZ4d3y3ZIaHkgWdCeXcA34r4y-Lo4skills-assets/cplusplus-original.svg" alt="C++" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR21_eBfRtX4rPZDwQ_Z9U926LocKDvZ4d3y3ZIaHkgWdCeXcA34r4y-Lo4skills-assets/python-original.svg" alt="Python" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR21_eBfRtX4rPZDwQ_Z9U926LocKDvZ4d3y3ZIaHkgWdCeXcA34r4y-Lo4skills-assets/csharp-original.svg" alt="C#" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR21_eBfRtX4rPZDwQ_Z9U926LocKDvZ4d3y3ZIaHkgWdCeXcA34r4y-Lo4skills-assets/c-original.svg" alt="C" height="75" />  
 </div>
 
 </td><td valign="top" width="33%">
