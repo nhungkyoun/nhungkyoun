@@ -3,10 +3,10 @@
 </div>  
   
 
-# <div align="center">I'm Nhung , a student at HCMC University of Technology and Education.</div>  
+# <div align="center">I'm Nhung , a student at HCMC University of Technology and Education 🚀</div>  
   
 
--  🔭 I’m currently working Data Engineering  
+- 🔭 I’m currently working Data Engineering.  
   
 
 - ⚡ Fun fact: I don't play games and like watching cartoons 🤣  
@@ -26,10 +26,10 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR21_eBfRtX4rPZDwQ_Z9U926LocKDvZ4d3y3ZIaHkgWdCeXcA34r4y-Lo4skills-assets/cplusplus-original.svg" alt="C++" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR21_eBfRtX4rPZDwQ_Z9U926LocKDvZ4d3y3ZIaHkgWdCeXcA34r4y-Lo4skills-assets/python-original.svg" alt="Python" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR21_eBfRtX4rPZDwQ_Z9U926LocKDvZ4d3y3ZIaHkgWdCeXcA34r4y-Lo4skills-assets/csharp-original.svg" alt="C#" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/?fbclid=IwAR21_eBfRtX4rPZDwQ_Z9U926LocKDvZ4d3y3ZIaHkgWdCeXcA34r4y-Lo4skills-assets/c-original.svg" alt="C" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -70,20 +70,11 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+
 <br />
 
 ----
